@@ -1,0 +1,9 @@
+# Archivos de VSCODE
+.vscode/
+
+
+#Archivos del sistema
+.DS_Store
+
+#Archivos temporales
+*.tmp
